@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\bin\Debug\Time+15min.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\bin\Debug\Time+15min.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\bin\Debug\Time+15min.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\obj\Debug\Time+15min.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\obj\Debug\Time+15min.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Time+15min\obj\Debug\Time+15min.pdb

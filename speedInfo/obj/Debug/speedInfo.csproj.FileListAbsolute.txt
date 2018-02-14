@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\bin\Debug\speedInfo.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\bin\Debug\speedInfo.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\bin\Debug\speedInfo.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\obj\Debug\speedInfo.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\obj\Debug\speedInfo.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\speedInfo\obj\Debug\speedInfo.pdb

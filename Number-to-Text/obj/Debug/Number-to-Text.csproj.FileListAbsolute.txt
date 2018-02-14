@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\bin\Debug\Number-to-Text.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\bin\Debug\Number-to-Text.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\bin\Debug\Number-to-Text.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\obj\Debug\Number-to-Text.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\obj\Debug\Number-to-Text.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number-to-Text\obj\Debug\Number-to-Text.pdb

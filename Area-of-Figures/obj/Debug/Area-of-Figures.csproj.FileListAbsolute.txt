@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.pdb

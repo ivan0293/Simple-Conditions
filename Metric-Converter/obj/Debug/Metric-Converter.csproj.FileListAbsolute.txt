@@ -1,0 +1,7 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb

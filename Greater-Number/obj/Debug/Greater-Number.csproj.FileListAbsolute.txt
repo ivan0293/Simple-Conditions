@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\obj\Debug\Greater-Number.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\obj\Debug\Greater-Number.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Greater-Number\obj\Debug\Greater-Number.pdb

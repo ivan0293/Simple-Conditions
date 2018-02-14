@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\bin\Debug\Equal-Words.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\obj\Debug\Equal-Words.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\obj\Debug\Equal-Words.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Equal-Words\obj\Debug\Equal-Words.pdb

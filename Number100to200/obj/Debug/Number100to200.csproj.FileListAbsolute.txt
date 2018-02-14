@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\bin\Debug\Number100to200.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\bin\Debug\Number100to200.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\bin\Debug\Number100to200.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\obj\Debug\Number100to200.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\obj\Debug\Number100to200.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100to200\obj\Debug\Number100to200.pdb

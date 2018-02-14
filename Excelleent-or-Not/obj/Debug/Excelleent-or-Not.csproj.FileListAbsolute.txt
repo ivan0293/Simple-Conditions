@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\bin\Debug\Excelleent-or-Not.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\bin\Debug\Excelleent-or-Not.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\bin\Debug\Excelleent-or-Not.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\obj\Debug\Excelleent-or-Not.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\obj\Debug\Excelleent-or-Not.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Excelleent-or-Not\obj\Debug\Excelleent-or-Not.pdb

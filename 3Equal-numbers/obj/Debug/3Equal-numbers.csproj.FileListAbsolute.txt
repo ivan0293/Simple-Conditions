@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\bin\Debug\3Equal-numbers.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\bin\Debug\3Equal-numbers.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\bin\Debug\3Equal-numbers.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\obj\Debug\3Equal-numbers.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\obj\Debug\3Equal-numbers.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\3Equal-numbers\obj\Debug\3Equal-numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\bin\Debug\Bonus-score.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\bin\Debug\Bonus-score.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\bin\Debug\Bonus-score.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\obj\Debug\Bonus-score.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\obj\Debug\Bonus-score.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Bonus-score\obj\Debug\Bonus-score.pdb

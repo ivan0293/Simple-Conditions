@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\bin\Debug\Exellent_Result.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\bin\Debug\Exellent_Result.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\bin\Debug\Exellent_Result.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\obj\Debug\Exellent_Result.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\obj\Debug\Exellent_Result.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Exellent_Result\obj\Debug\Exellent_Result.pdb

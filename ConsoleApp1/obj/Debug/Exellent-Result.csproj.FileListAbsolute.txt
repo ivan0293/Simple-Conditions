@@ -1,0 +1,7 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\obj\Debug\Exellent-Result.csprojResolveAssemblyReference.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\obj\Debug\Exellent-Result.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

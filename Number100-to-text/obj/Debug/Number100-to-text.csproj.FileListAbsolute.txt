@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\bin\Debug\Number100-to-text.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\bin\Debug\Number100-to-text.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\bin\Debug\Number100-to-text.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\obj\Debug\Number100-to-text.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\obj\Debug\Number100-to-text.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Number100-to-text\obj\Debug\Number100-to-text.pdb

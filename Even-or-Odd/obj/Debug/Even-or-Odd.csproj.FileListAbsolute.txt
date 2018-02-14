@@ -1,0 +1,6 @@
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.csproj.CoreCompileInputs.cache
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe.config
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.pdb
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.exe
+c:\users\hrist\Source\Repos\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.pdb
